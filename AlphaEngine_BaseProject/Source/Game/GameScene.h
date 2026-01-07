@@ -1,6 +1,9 @@
 #pragma once
 #include "Player/Player.h"
 
+/**
+ * @brief Game scene contains any game data
+ */
 class GameScene
 {
 public:
